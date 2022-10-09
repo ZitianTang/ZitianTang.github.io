@@ -18,10 +18,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Posts · No Borders, No Limits</title>
+    <title>Posts · Zitian Tang</title>
     
-    <link>https://cwbc2000.github.io/blog/</link>
-    <description>Recent content in Posts · No Borders, No Limits</description>
+    <link>https://zitiantang.github.io/blog/</link>
+    <description>Recent content in Posts · Zitian Tang</description>
     
     <language>en-us</language>
     
@@ -36,7 +36,7 @@
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 -0700</lastBuildDate>
     
     
-    <atom:link href="https://cwbc2000.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://zitiantang.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
@@ -44,8 +44,8 @@
       <title>Markdown Syntax Guide</title>
       
       
-      <link>https://cwbc2000.github.io/blog/2019/03/11/markdown-syntax-guide/</link>
-      <guid>https://cwbc2000.github.io/blog/2019/03/11/markdown-syntax-guide/</guid>
+      <link>https://zitiantang.github.io/blog/2019/03/11/markdown-syntax-guide/</link>
+      <guid>https://zitiantang.github.io/blog/2019/03/11/markdown-syntax-guide/</guid>
       
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
@@ -201,8 +201,8 @@
       <title>Placeholder Text</title>
       
       
-      <link>https://cwbc2000.github.io/blog/2019/03/09/placeholder-text/</link>
-      <guid>https://cwbc2000.github.io/blog/2019/03/09/placeholder-text/</guid>
+      <link>https://zitiantang.github.io/blog/2019/03/09/placeholder-text/</link>
+      <guid>https://zitiantang.github.io/blog/2019/03/09/placeholder-text/</guid>
       
       
       <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
@@ -242,8 +242,8 @@
       <title>Math Typesetting</title>
       
       
-      <link>https://cwbc2000.github.io/blog/2019/03/08/math-typesetting/</link>
-      <guid>https://cwbc2000.github.io/blog/2019/03/08/math-typesetting/</guid>
+      <link>https://zitiantang.github.io/blog/2019/03/08/math-typesetting/</link>
+      <guid>https://zitiantang.github.io/blog/2019/03/08/math-typesetting/</guid>
       
       
       <pubDate>Fri, 08 Mar 2019 00:00:00 -0800</pubDate>
@@ -282,8 +282,8 @@ $$</p>]]></description>
       <title>Emoji Support</title>
       
       
-      <link>https://cwbc2000.github.io/blog/2019/03/05/emoji-support/</link>
-      <guid>https://cwbc2000.github.io/blog/2019/03/05/emoji-support/</guid>
+      <link>https://zitiantang.github.io/blog/2019/03/05/emoji-support/</link>
+      <guid>https://zitiantang.github.io/blog/2019/03/05/emoji-support/</guid>
       
       
       <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
