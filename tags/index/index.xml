@@ -39,18 +39,22 @@
     
     <item>
       
-      <title>Posts</title>
+      <title>My Blogs</title>
       
       
       <link>https://zitiantang.github.io/blog/</link>
       <guid>https://zitiantang.github.io/blog/</guid>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
-      
       
       <author>tzt19@mails.tsinghua.edu.cn</author>
       
+      
+      <description><![CDATA[<h2 id="center-mlfa"><center> MLFA</h2>
+<p>I am writing a Chinese column <a href="https://www.zhihu.com/column/c_1494725581471854592">Machine Learning in Football Analytics (MLFA)</a> at Zhihu. I notice that this area is much less popular in China than in the west and there is almost no Chinese materials introducing it. Therefore, I write the column to popularize this field, especially among people who are interested in football and machine learning. I wish this field will get more attention in China in the future.</p>
+<div align=center>
+    <img src="https://zitiantang.github.io/pictures/MLFA.PNG"/>
+</div>]]></description>
       
     </item>
     

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zitiantang.github.io/about/</loc>
-    <lastmod>2022-10-09T00:00:00-07:00</lastmod>
+    <lastmod>2022-10-28T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://zitiantang.github.io/articles/</loc>
     <lastmod>2022-09-07T12:45:03-07:00</lastmod>
@@ -35,16 +35,16 @@
     <loc>https://zitiantang.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://zitiantang.github.io/hide/</loc>
+    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://zitiantang.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://zitiantang.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://zitiantang.github.io/blog/2019/03/11/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://zitiantang.github.io/blog/</loc>
+    <loc>https://zitiantang.github.io/hide/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://zitiantang.github.io/categories/syntax/</loc>
@@ -53,19 +53,19 @@
     <loc>https://zitiantang.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://zitiantang.github.io/blog/2019/03/09/placeholder-text/</loc>
+    <loc>https://zitiantang.github.io/hide/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00-08:00</lastmod>
   </url><url>
     <loc>https://zitiantang.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://zitiantang.github.io/blog/2019/03/08/math-typesetting/</loc>
+    <loc>https://zitiantang.github.io/hide/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00-08:00</lastmod>
   </url><url>
     <loc>https://zitiantang.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://zitiantang.github.io/blog/2019/03/05/emoji-support/</loc>
+    <loc>https://zitiantang.github.io/hide/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00-08:00</lastmod>
   </url><url>
     <loc>https://zitiantang.github.io/about_/</loc>
@@ -75,6 +75,8 @@
     <priority>0</priority>
   </url><url>
     <loc>https://zitiantang.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://zitiantang.github.io/blog/</loc>
   </url><url>
     <loc>https://zitiantang.github.io/interests/</loc>
   </url>
