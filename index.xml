@@ -41,46 +41,6 @@
     
     <item>
       
-      <title>Zitian Tang</title>
-      
-      
-      <link>https://zitiantang.github.io/about/</link>
-      <guid>https://zitiantang.github.io/about/</guid>
-      
-      
-      <pubDate>Fri, 28 Oct 2022 00:00:00 -0700</pubDate>
-      
-      
-      <author>tzt19@mails.tsinghua.edu.cn</author>
-      
-      
-      <description><![CDATA[<h2 id="center-research-interests"><center> Research Interests</h2>
-<h4 id="multimodal-machine-learning">Multimodal Machine Learning</h4>
-<p>I believe a necessary ability for machines to achieve human-level understanding about the world is to process various modalities simultaneously. Currently I am working on multimodal machine learning at <a href="http://group.iiis.tsinghua.edu.cn/~marslab/#/">MARS Lab</a> advised by <a href="https://hangzhaomit.github.io/">Prof. Hang Zhao</a>, especially investigating novel application of thermal imaging.</p>
-<h4 id="sports-analytics">Sports Analytics</h4>
-<p>Particularly, I am interested in machine learning methods for team sports analytics. The increasing amount of event and tracking data about team sports allows machine learning (especially deep learning) to be applied in this field. It is my belief that advanced machine learning methods will help improve team sports tactics in a way hard for human to discover. Currently I am working on this area in <a href="https://www.researchgate.net/profile/Shaoliang-Zhang-5">Prof. Shaoliang Zhang</a>&rsquo;s group.</p>
-<br/>
-<h2 id="center-education"><center> Education</h2>
-<ul>
-<li>
-<p><strong>Undergraduate:</strong> Institute for Interdisciplinary Information Sciences, Tsinghua University. 2019 - 2023 (expected)</p>
-<div align=center>
-    <img src="https://zitiantang.github.io/pictures/EducationLogo.png", width="200px"/>
-</div>
-</li>
-</ul>
-<br/>
-<h2 id="center-award"><center> Award</h2>
-<ul>
-<li>Gold Award (Rank 16) in the National Olympiad in Informatics (NOI) 2018</li>
-<li>Gold Award (Rank 4) in the Asia-Pacific Informatics Olympiad (APIO) 2018</li>
-</ul>
-]]></description>
-      
-    </item>
-    
-    <item>
-      
       <title>Bluth Ipsum</title>
       
       
@@ -431,6 +391,78 @@ $$</p>]]></description>
 <div align=center>
     <img src="https://zitiantang.github.io/pictures/languages.png", width="500px"/>
 </div>
+]]></description>
+      
+    </item>
+    
+    <item>
+      
+      <title>Publications</title>
+      
+      
+      <link>https://zitiantang.github.io/publications/</link>
+      <guid>https://zitiantang.github.io/publications/</guid>
+      
+      
+      
+      <author>tzt19@mails.tsinghua.edu.cn</author>
+      
+      
+      <description><![CDATA[<div style="display:flex;">
+	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
+    	<img src="https://zitiantang.github.io/pictures/thermal-im.png" width="200" />
+	</div>
+    <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
+	</div>
+	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
+            <strong>What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging</strong><br> 
+            <i>Zitian Tang</i>,
+        	<a href="https://github.com/Anson529" class="btn btn-default btn-sm">Wenjie Ye</a>,
+        	<a href="http://people.csail.mit.edu/weichium/" class="btn btn-default btn-sm">Wei-Chiu Ma</a>,
+        	<a href="https://hangzhaomit.github.io/" class="btn btn-default btn-sm">Hang Zhao</a><br>
+            <strong>CVPR 2023</strong><br><br>
+            [Paper] [Dataset] (coming soon)
+        	<!-- <a href="https://github.com/ZitianTang/Thermal-IM" class="btn btn-default btn-sm">[Dataset]</a> -->
+	</div>
+</div>
+]]></description>
+      
+    </item>
+    
+    <item>
+      
+      <title>Zitian Tang</title>
+      
+      
+      <link>https://zitiantang.github.io/about/</link>
+      <guid>https://zitiantang.github.io/about/</guid>
+      
+      
+      
+      <author>tzt19@mails.tsinghua.edu.cn</author>
+      
+      
+      <description><![CDATA[<h2 id="center-research-interests"><center> Research Interests</h2>
+<h4 id="multimodal-machine-learning">Multimodal Machine Learning</h4>
+<p>I believe a necessary ability for machines to achieve human-level understanding about the world is to process various modalities simultaneously. Currently I am working on multimodal machine learning at <a href="http://group.iiis.tsinghua.edu.cn/~marslab/#/">MARS Lab</a> advised by <a href="https://hangzhaomit.github.io/">Prof. Hang Zhao</a>, especially investigating novel application of thermal imaging.</p>
+<h4 id="sports-analytics">Sports Analytics</h4>
+<p>Particularly, I am interested in machine learning methods for team sports analytics. The increasing amount of event and tracking data about team sports allows machine learning (especially deep learning) to be applied in this field. It is my belief that advanced machine learning methods will help improve team sports tactics in a way hard for human to discover. Currently I am working on this area in <a href="https://www.researchgate.net/profile/Shaoliang-Zhang-5">Prof. Shaoliang Zhang</a>&rsquo;s group.</p>
+<br/>
+<h2 id="center-education"><center> Education</h2>
+<ul>
+<li>
+<p><strong>Undergraduate:</strong> Institute for Interdisciplinary Information Sciences, Tsinghua University. 2019 - 2023 (expected)</p>
+<div align=center>
+    <img src="https://zitiantang.github.io/pictures/EducationLogo.png", width="200px"/>
+</div>
+</li>
+</ul>
+<br/>
+<h2 id="center-award"><center> Award</h2>
+<ul>
+<li>Gold Award (Rank 16) in the National Olympiad in Informatics (NOI) 2018</li>
+<li>Gold Award (Rank 4) in the Asia-Pacific Informatics Olympiad (APIO) 2018</li>
+</ul>
 ]]></description>
       
     </item>
