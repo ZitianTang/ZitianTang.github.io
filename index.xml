@@ -381,13 +381,13 @@ $$</p>]]></description>
       
       
       <description><![CDATA[<h2 id="football-soccer">Football (Soccer)</h2>
-<p>I am a football fan. My favorite teams are two clubs in my hometown: <strong>Shandong Taishan FC</strong> (in Chinese Super League) &amp; <strong>Zibo Cuju FC</strong> (in Chinese League 1).</p>
+<p>I am a football fan. My favorite teams are two clubs in my hometown: <strong>Shandong Taishan FC</strong> (in Chinese Super League) &amp; <strong>Zibo Cuju FC</strong> (bankrupt in 2023).</p>
 <div align=center>
     <img src="https://zitiantang.github.io/pictures/fc.png", width="300px"/>
 </div>
 <br/>
 <h2 id="language-learning">Language Learning</h2>
-<p>I am a native <strong>Chinese</strong> speaker (Mandarin &amp; Shandong dialect) and interested in learning foreign languages. Besides my first foreign language <strong>English</strong>, I am also a beginner of <strong>Spanish</strong> and <strong>Japanese</strong>.</p>
+<p>I am a native <strong>Chinese</strong> speaker (Mandarin &amp; Shandong dialect) and interested in learning languages. Besides my first foreign language <strong>English</strong>, I am also a beginner of <strong>Spanish</strong> and <strong>Japanese</strong>.</p>
 <div align=center>
     <img src="https://zitiantang.github.io/pictures/languages.png", width="500px"/>
 </div>
@@ -421,7 +421,7 @@ $$</p>]]></description>
         	<a href="http://people.csail.mit.edu/weichium/" style="color:black">Wei-Chiu Ma</a>,
         	<a href="https://hangzhaomit.github.io/" style="color:black">Hang Zhao</a><br>
             <strong>CVPR 2023</strong><br><br>
-	        <a href="https://nbviewer.org/github/ZitianTang/Thermal-IM/blob/main/files/CVPR2023_Thermal_IM_full.pdf" class="btn btn-primary">Paper</a> 
+	        <a href="https://arxiv.org/pdf/2304.13651.pdf" class="btn btn-primary">Paper</a> 
             <a href="https://github.com/ZitianTang/Thermal-IM" class="btn btn-success">Dataset</a> (Code coming soon)
         	<!-- <a href="https://github.com/ZitianTang/Thermal-IM" class="btn btn-default btn-sm">[Dataset]</a> -->
 	</div>
