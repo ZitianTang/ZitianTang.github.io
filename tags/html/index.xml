@@ -18,16 +18,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>html · Zitian Tang</title>
+    <title>Html · Zitian Tang</title>
     
     <link>https://zitiantang.github.io/tags/html/</link>
-    <description>Recent content in html · Zitian Tang</description>
+    <description>Recent content in Html · Zitian Tang</description>
     
     <language>en-us</language>
     
-    
-    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
-    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
     
     
     <copyright>© Michael Bluth</copyright>
@@ -50,8 +47,6 @@
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
-      
-      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
       <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -81,39 +76,39 @@
 <h2 id="tables">Tables</h2>
 <p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
 <table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Bob</td>
-<td>27</td>
-</tr>
-<tr>
-<td>Alice</td>
-<td>23</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Name</th>
+          <th>Age</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Bob</td>
+          <td>27</td>
+      </tr>
+      <tr>
+          <td>Alice</td>
+          <td>23</td>
+      </tr>
+  </tbody>
 </table>
 <h4 id="inline-markdown-within-tables">Inline Markdown within tables</h4>
 <table>
-<thead>
-<tr>
-<th>Italics</th>
-<th>Bold</th>
-<th>Code</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>italics</em></td>
-<td><strong>bold</strong></td>
-<td><code>code</code></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Italics</th>
+          <th>Bold</th>
+          <th>Code</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><em>italics</em></td>
+          <td><strong>bold</strong></td>
+          <td><code>code</code></td>
+      </tr>
+  </tbody>
 </table>
 <h2 id="code-blocks">Code Blocks</h2>
 <h4 id="code-block-with-backticks">Code block with backticks</h4>

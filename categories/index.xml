@@ -26,9 +26,6 @@
     <language>en-us</language>
     
     
-    <managingEditor>tzt19@mails.tsinghua.edu.cn</managingEditor>
-    <webMaster>tzt19@mails.tsinghua.edu.cn</webMaster>
-    
     
     <copyright>© Michael Bluth</copyright>
     
@@ -41,7 +38,7 @@
     
     <item>
       
-      <title>bluth</title>
+      <title>Bluth</title>
       
       
       <link>https://zitiantang.github.io/categories/bluth/</link>
@@ -51,14 +48,12 @@
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
       
       
-      <author>tzt19@mails.tsinghua.edu.cn</author>
-      
       
     </item>
     
     <item>
       
-      <title>ipsum</title>
+      <title>Ipsum</title>
       
       
       <link>https://zitiantang.github.io/categories/ipsum/</link>
@@ -68,14 +63,12 @@
       <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
       
       
-      <author>tzt19@mails.tsinghua.edu.cn</author>
-      
       
     </item>
     
     <item>
       
-      <title>syntax</title>
+      <title>Syntax</title>
       
       
       <link>https://zitiantang.github.io/categories/syntax/</link>
@@ -85,14 +78,12 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
       
-      <author>tzt19@mails.tsinghua.edu.cn</author>
-      
       
     </item>
     
     <item>
       
-      <title>themes</title>
+      <title>Themes</title>
       
       
       <link>https://zitiantang.github.io/categories/themes/</link>
@@ -101,8 +92,6 @@
       
       <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
       
-      
-      <author>tzt19@mails.tsinghua.edu.cn</author>
       
       
     </item>
