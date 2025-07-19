@@ -402,8 +402,10 @@ $$</p>]]></description>
         	Junho Cho,
 			Jaewook Yoo,
         	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
-            <strong>Preprint</strong><br><br>
+            <strong>ICCV 2025</strong><br><br>
 	        <a href="https://arxiv.org/abs/2504.07454" class="btn btn-primary">Paper</a>
+            <a href="https://brown-palm.github.io/ObjectMLLM/" class="btn btn-danger">Project</a>
+			<a href="https://github.com/brown-palm/ObjectMLLM/" class="btn btn-success">Code</a>
 	</div>
 </div>
 <br>
@@ -485,14 +487,19 @@ $$</p>]]></description>
 <h2 id="center-education"><center> Education</h2>
 <ul>
 <li>
-<p><strong>Ph.D.:</strong> Computer Science, Brown University. 2023 - present.</p>
+<p>2023 - present, Ph.D. in Computer Science, <strong>Brown University</strong>.</p>
 </li>
 <li>
-<p><strong>Undergraduate:</strong> Institute for Interdisciplinary Information Sciences (Yao Class), Tsinghua University. 2019 - 2023.</p>
+<p>2019 - 2023, Undergraduate at Institute for Interdisciplinary Information Sciences (Yao Class), <strong>Tsinghua University</strong>.</p>
 <div align=center>
     <img src="https://zitiantang.github.io/pictures/EducationLogo.png", width="200px"/>
 </div>
 </li>
+</ul>
+<br/>
+<h2 id="center-experience"><center> Experience</h2>
+<ul>
+<li>05/2025 - present, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Steve Yuan</a>.</li>
 </ul>
 <br/>
 <h2 id="center-award"><center> Award</h2>
@@ -507,8 +514,14 @@ $$</p>]]></description>
 <ul>
 <li>CVPR 2024, 2025</li>
 <li>ECCV 2024 (outstanding reviewer)</li>
-<li>NeurIPS 2024 (top reviewer)</li>
+<li>NeurIPS 2024 (top reviewer), 2025</li>
 <li>ICML 2025</li>
+<li>ICCV 2025</li>
+</ul>
+</li>
+<li>Journal Reviewer:
+<ul>
+<li>TMLR</li>
 </ul>
 </li>
 </ul>
