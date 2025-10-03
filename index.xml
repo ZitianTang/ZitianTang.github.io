@@ -391,6 +391,24 @@ $$</p>]]></description>
       
       <description><![CDATA[<div style="display:flex; align-items: center;">
 	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
+    	<img src="https://zitiantang.github.io/pictures/sage.png" width="200" />
+	</div>
+    <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
+	</div>
+	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
+            <strong>SAGE: A Unified Framework for Generalizable Object State Recognition with State-Action Graph Embedding</strong><br>
+        	<a href="https://scholar.google.com/citations?user=Y_IbB6MAAAAJ&hl=en" style="color:black">Yuan Zang</a>,
+			Zitian Tang,
+        	Junho Cho,
+			Jaewook Yoo,
+        	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
+            <strong>NeurIPS 2025 (Oral)</strong><br><br>
+	        <a href="https://zitiantang.github.io/publications/" class="btn btn-primary">Paper (coming soon)</a>
+	</div>
+</div>
+<br>
+<div style="display:flex; align-items: center;">
+	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
     	<img src="https://zitiantang.github.io/pictures/objectmllm.png" width="200" />
 	</div>
     <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
@@ -482,7 +500,7 @@ $$</p>]]></description>
 <h4 id="multimodal-machine-learning">Multimodal Machine Learning</h4>
 <p>I believe a necessary ability for machines to achieve human-level understanding about the world is to process various modalities simultaneously. Currently I am a member at the PALM Lab directed by <a href="https://chensun.me/">Chen Sun</a>, working on video understanding and video-language models. Previously, I was advised by <a href="https://hangzhaomit.github.io/">Hang Zhao</a> at <a href="http://group.iiis.tsinghua.edu.cn/~marslab/#/">MARS Lab</a>.</p>
 <h4 id="sports-analytics">Sports Analytics</h4>
-<p>In the past, I also did research in sports analytics. I spent my last undergraduate year working with <a href="https://www.researchgate.net/profile/Shaoliang-Zhang-5">Shaoliang Zhang</a> in deep learning methods for team sports analytics. The increasing amount of event and tracking data about team sports allows deep learning to be applied in this field. It is my belief that advanced deep learning methods will help improve team sports tactics in a way hard for human to discover.</p>
+<p>In the past, I also did research in sports analytics. I spent my last undergraduate year working with <a href="https://sportssuper.github.io/ZSL/">Shaoliang Zhang</a> in deep learning methods for team sports analytics. The increasing amount of event and tracking data about team sports allows deep learning to be applied in this field. It is my belief that advanced deep learning methods will help improve team sports tactics in a way hard for human to discover.</p>
 <br/>
 <h2 id="center-education"><center> Education</h2>
 <ul>
@@ -499,7 +517,7 @@ $$</p>]]></description>
 <br/>
 <h2 id="center-experience"><center> Experience</h2>
 <ul>
-<li>05/2025 - present, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Steve Yuan</a>.</li>
+<li>05/2025 - present, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Steve Yuan</a> and <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>.</li>
 </ul>
 <br/>
 <h2 id="center-award"><center> Award</h2>
