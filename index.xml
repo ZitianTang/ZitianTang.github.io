@@ -391,19 +391,20 @@ $$</p>]]></description>
       
       <description><![CDATA[<div style="display:flex; align-items: center;">
 	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
-    	<img src="https://zitiantang.github.io/pictures/sage.png" width="200" />
+    	<img src="https://zitiantang.github.io/pictures/spacewalk.png" width="200" />
 	</div>
     <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
 	</div>
 	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
-            <strong>SAGE: A Unified Framework for Generalizable Object State Recognition with State-Action Graph Embedding</strong><br>
-        	<a href="https://scholar.google.com/citations?user=Y_IbB6MAAAAJ&hl=en" style="color:black">Yuan Zang</a>,
-			Zitian Tang,
-        	Junho Cho,
-			Jaewook Yoo,
+            <strong>Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains</strong><br>
+			Zitian Tang*,
+        	<a href="https://scholar.google.com/citations?user=koxiPYIAAAAJ&hl=en&oi=sra" style="color:black">Rohan Myer Krishnan</a>*,
+        	Zhiqiu Yu,
         	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
-            <strong>NeurIPS 2025 (Oral)</strong><br><br>
-	        <a href="https://zitiantang.github.io/publications/" class="btn btn-primary">Paper (coming soon)</a>
+            <strong>WACV 2026</strong><br><br>
+	        <a href="https://arxiv.org/abs/2311.18773" class="btn btn-primary">Paper</a> 
+            <a href="https://brown-palm.github.io/Spacewalk-18" class="btn btn-danger">Project</a>
+			<a href="https://github.com/brown-palm/Spacewalk-18-benchmark" class="btn btn-success">Dataset</a>
 	</div>
 </div>
 <br>
@@ -424,25 +425,6 @@ $$</p>]]></description>
 	        <a href="https://arxiv.org/abs/2504.07454" class="btn btn-primary">Paper</a>
             <a href="https://brown-palm.github.io/ObjectMLLM/" class="btn btn-danger">Project</a>
 			<a href="https://github.com/brown-palm/ObjectMLLM/" class="btn btn-success">Code</a>
-	</div>
-</div>
-<br>
-<div style="display:flex; align-items: center;">
-	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
-    	<img src="https://zitiantang.github.io/pictures/spacewalk.png" width="200" />
-	</div>
-    <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
-	</div>
-	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
-            <strong>Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains</strong><br>
-			Zitian Tang*,
-        	<a href="https://scholar.google.com/citations?user=koxiPYIAAAAJ&hl=en&oi=sra" style="color:black">Rohan Myer Krishnan</a>*,
-        	Zhiqiu Yu,
-        	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
-            <strong>Preprint</strong><br><br>
-	        <a href="https://arxiv.org/abs/2311.18773" class="btn btn-primary">Paper</a> 
-            <a href="https://brown-palm.github.io/Spacewalk-18" class="btn btn-danger">Project</a>
-			<a href="https://github.com/brown-palm/Spacewalk-18-benchmark" class="btn btn-success">Dataset</a>
 	</div>
 </div>
 <br>
@@ -517,7 +499,7 @@ $$</p>]]></description>
 <br/>
 <h2 id="center-experience"><center> Experience</h2>
 <ul>
-<li>05/2025 - present, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Steve Yuan</a> and <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>.</li>
+<li>05/2025 - 11/2025, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Steve Yuan</a>, <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>, and <a href="https://davidemodolo.wordpress.com/">Davide Modolo</a>.</li>
 </ul>
 <br/>
 <h2 id="center-award"><center> Award</h2>
@@ -534,7 +516,7 @@ $$</p>]]></description>
 <li>ECCV 2024 (outstanding reviewer)</li>
 <li>NeurIPS 2024 (top reviewer), 2025</li>
 <li>ICML 2025</li>
-<li>ICCV 2025</li>
+<li>ICCV 2025 (outstanding reviewer)</li>
 </ul>
 </li>
 <li>Journal Reviewer:
