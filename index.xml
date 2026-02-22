@@ -27,7 +27,7 @@
     
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Zitian Tang</copyright>
     
     
     <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
@@ -139,7 +139,7 @@
 </table>
 <h2 id="code-blocks">Code Blocks</h2>
 <h4 id="code-block-with-backticks">Code block with backticks</h4>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#00f">&lt;!doctype html&gt;</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#00f">&lt;!doctype html&gt;</span>
 </span></span><span style="display:flex;"><span>&lt;html lang=<span style="color:#a31515">&#34;en&#34;</span>&gt;
 </span></span><span style="display:flex;"><span>&lt;head&gt;
 </span></span><span style="display:flex;"><span>  &lt;meta charset=<span style="color:#a31515">&#34;utf-8&#34;</span>&gt;
@@ -162,7 +162,7 @@
 &lt;/html&gt;
 </code></pre>
 <h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&rsquo;s internal highlight shortcode</h4>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#00f">&lt;!doctype html&gt;</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#00f">&lt;!doctype html&gt;</span>
 </span></span><span style="display:flex;"><span>&lt;html lang=<span style="color:#a31515">&#34;en&#34;</span>&gt;
 </span></span><span style="display:flex;"><span>&lt;head&gt;
 </span></span><span style="display:flex;"><span>  &lt;meta charset=<span style="color:#a31515">&#34;utf-8&#34;</span>&gt;
@@ -277,7 +277,7 @@
 <li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
 <li>Include the partial in your templates like so:</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>{{ <span style="color:#00f">if</span> or .Params.math .Site.Params.math }}
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>{{ <span style="color:#00f">if</span> or .Params.math .Site.Params.math }}
 </span></span><span style="display:flex;"><span>{{ partial <span style="color:#a31515">&#34;math.html&#34;</span> . }}
 </span></span><span style="display:flex;"><span>{{ end }}
 </span></span></code></pre></div><ul>
@@ -316,7 +316,7 @@ $$</p>]]></description>
 <p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
 <hr>
 <p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
 </span></span><span style="display:flex;"><span>  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>]]></description>
       
@@ -364,7 +364,7 @@ $$</p>]]></description>
       
       
       <description><![CDATA[<h2 id="football-soccer">Football (Soccer)</h2>
-<p>I am a football fan. My favorite teams are two clubs in my hometown: <strong>Shandong Taishan FC</strong> (in Chinese Super League) &amp; <strong>Zibo Cuju FC</strong> (bankrupt in 2023).</p>
+<p>I am a football fan. My favorite teams are two clubs in my hometown: <a href="https://en.wikipedia.org/wiki/Shandong_Taishan_F.C.">Shandong Taishan FC</a> (in Chinese Super League) &amp; <a href="https://en.wikipedia.org/wiki/Zibo_Cuju_F.C.">Zibo Cuju FC</a> (dissolved in 2023). I am also a loyal supporter of the <a href="https://en.wikipedia.org/wiki/China_national_football_team">China national football team</a>.</p>
 <div align=center>
     <img src="https://zitiantang.github.io/pictures/fc.png", width="300px"/>
 </div>
@@ -380,7 +380,7 @@ $$</p>]]></description>
     
     <item>
       
-      <title>Publications</title>
+      <title>Selected Publications</title>
       
       
       <link>https://zitiantang.github.io/publications/</link>
@@ -389,7 +389,51 @@ $$</p>]]></description>
       
       
       
-      <description><![CDATA[<div style="display:flex; align-items: center;">
+      <description><![CDATA[<br>
+<div style="display:flex; align-items: center;">
+	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
+    	<img src="https://zitiantang.github.io/pictures/mmrecoder.gif" width="200" />
+	</div>
+    <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
+	</div>
+	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
+            <strong>MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning<br>and Self-Correction</strong><br>
+			<strong>Zitian Tang</strong>,
+			<a href="https://xu-zhang-1987.github.io/" style="color:black">Xu Zhang</a>,
+			<a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en" style="color:black">Jianbo Yuan</a>,
+			<a href="https://yzou2.github.io/" style="color:black">Yang Zou</a>,
+			<a href="https://scholar.google.com/citations?user=b3UwPxUAAAAJ&hl=en" style="color:black">Varad Gunjal</a>,
+			<a href="https://www.songyaojiang.com/" style="color:black">Songyao Jiang</a>,<br>
+        	<a href="https://davidemodolo.wordpress.com/" style="color:black">Davide Modolo</a><br>
+            <strong>CVPR 2026</strong><br>
+	</div>
+</div>
+<br>
+<div style="display:flex; align-items: center;">
+	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
+    	<img src="https://zitiantang.github.io/pictures/goal_force.gif" width="200" />
+	</div>
+    <div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;flex: 1 0 20px;">
+	</div>
+	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
+            <strong>Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals</strong><br>
+			<a href="https://cs.brown.edu/people/ngillman/" style="color:black">Nate Gillman</a>,
+			<a href="https://zyinghua.github.io/" style="color:black">Yinghua Zhou</a>,
+			<strong>Zitian Tang</strong>,
+			<a href="https://www.linkedin.com/in/evan-luo-48a755261/" style="color:black">Evan Luo</a>,
+			Arjan Chakravarthy,
+			<a href="https://scholar.google.com/citations?user=uP-gVQYAAAAJ&hl=en" style="color:black">Daksh Aggarwal</a>,
+			<a href="https://tempoxylophone.github.io/" style="color:black">Michael Freeman</a>,
+			<a href="https://scholar.google.com/citations?user=LQvi5XAAAAAJ&hl=en" style="color:black">Charles Herrmann</a>,
+        	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
+            <strong>CVPR 2026</strong><br>
+	        <a href="https://arxiv.org/abs/2601.05848" class="btn btn-primary">Paper</a> 
+            <a href="https://goal-force.github.io/" class="btn btn-danger">Project</a>
+			<a href="https://github.com/brown-palm/goal-force" class="btn btn-success">Code</a>
+	</div>
+</div>
+<br>
+<div style="display:flex; align-items: center;">
 	<div class="col-xs-12 col-lg-3" style="text-align: center; vertical-align: middle;">
     	<img src="https://zitiantang.github.io/pictures/spacewalk.png" width="200" />
 	</div>
@@ -397,11 +441,11 @@ $$</p>]]></description>
 	</div>
 	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
             <strong>Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains</strong><br>
-			Zitian Tang*,
+			<strong>Zitian Tang*</strong>,
         	<a href="https://scholar.google.com/citations?user=koxiPYIAAAAJ&hl=en&oi=sra" style="color:black">Rohan Myer Krishnan</a>*,
-        	Zhiqiu Yu,
+			<a href="https://www.linkedin.com/in/zhiqiu-jacob-yu/" style="color:black">Zhiqiu Yu</a>,
         	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
-            <strong>WACV 2026</strong><br><br>
+            <strong>WACV 2026 (Oral)</strong><br><br>
 	        <a href="https://arxiv.org/abs/2311.18773" class="btn btn-primary">Paper</a> 
             <a href="https://brown-palm.github.io/Spacewalk-18" class="btn btn-danger">Project</a>
 			<a href="https://github.com/brown-palm/Spacewalk-18-benchmark" class="btn btn-success">Dataset</a>
@@ -416,9 +460,9 @@ $$</p>]]></description>
 	</div>
 	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
             <strong>How Can Objects Help Video-Language Understanding?</strong><br>
-			Zitian Tang,
+			<strong>Zitian Tang</strong>,
         	<a href="https://wang-sj16.github.io/" style="color:black">Shijie Wang</a>,
-        	Junho Cho,
+			<a href="https://scholar.google.com/citations?user=O4YEHpUAAAAJ&hl=en" style="color:black">Junho Cho</a>,
 			Jaewook Yoo,
         	<a href="https://chensun.me/" style="color:black">Chen Sun</a><br>
             <strong>ICCV 2025</strong><br><br>
@@ -436,11 +480,11 @@ $$</p>]]></description>
 	</div>
 	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
             <strong>Clustering Football Game Situations via Deep Representation Learning</strong><br> 
-           	Zitian Tang,
+           	<strong>Zitian Tang</strong>,
         	Xing Wang,
-        	<a href="https://scholar.google.com/citations?user=8gPmFskAAAAJ&hl=en" style="color:black">Shaoliang Zhang</a><br>
+        	<a href="https://sportssuper.github.io/ZSL/" style="color:black">Shaoliang Zhang</a><br>
             <strong>StatsBomb Conference 2023</strong><br><br>
-	        <a href="https://www.researchgate.net/profile/Shaoliang-Zhang-5/publication/381111864_Clustering_Football_Game_Situations_via_Deep_Representation_Learning/links/67c459bd207c0c20fa9ec331/Clustering-Football-Game-Situations-via-Deep-Representation-Learning.pdf" class="btn btn-primary">Paper</a> 
+	        <a href="https://blogarchive.statsbomb.com/uploads/2023/10/Clustering-Football-Game-Situations-via-Deep-Representation-Learning.pdf" class="btn btn-primary">Paper</a> 
             <a href="https://github.com/ZitianTang/FootballSituation" class="btn btn-success">Code</a>
 	</div>
 </div>
@@ -453,9 +497,9 @@ $$</p>]]></description>
 	</div>
 	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
             <strong>What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging</strong><br> 
-           	Zitian Tang,
+           	<strong>Zitian Tang</strong>,
         	Wenjie Ye,
-        	<a href="http://people.csail.mit.edu/weichium/" style="color:black">Wei-Chiu Ma</a>,
+        	<a href="https://www.cs.cornell.edu/~weichiu/" style="color:black">Wei-Chiu Ma</a>,
         	<a href="https://hangzhaomit.github.io/" style="color:black">Hang Zhao</a><br>
             <strong>CVPR 2023</strong><br><br>
 	        <a href="https://arxiv.org/abs/2304.13651" class="btn btn-primary">Paper</a> 
@@ -478,13 +522,14 @@ $$</p>]]></description>
       
       
       
-      <description><![CDATA[<h2 id="center-research-interests"><center> Research Interests</h2>
-<h4 id="multimodal-machine-learning">Multimodal Machine Learning</h4>
-<p>I believe a necessary ability for machines to achieve human-level understanding about the world is to process various modalities simultaneously. Currently I am a member at the PALM Lab directed by <a href="https://chensun.me/">Chen Sun</a>, working on video understanding and video-language models. Previously, I was advised by <a href="https://hangzhaomit.github.io/">Hang Zhao</a> at <a href="http://group.iiis.tsinghua.edu.cn/~marslab/#/">MARS Lab</a>.</p>
+      <description><![CDATA[<h2 id="research-interests"><center> Research Interests</h2>
+<h4 id="multimodal-machine-learning--robotic-planning">Multimodal Machine Learning &amp; Robotic Planning</h4>
+<p>I believe a necessary ability for machines to achieve human-level understanding about the world is to process various modalities simultaneously. Currently, I am a member at the PALM Lab directed by <a href="https://chensun.me/">Chen Sun</a>, working on vision-language models. Recently, I have been extending my interest toward applying vision-language models and video generation models to robotics. I believe that the broad world knowledge embedded in foundation models can serve as powerful priors, enabling robots to perform more complex and generalizable planning tasks.</p>
+<p>Previously, I worked on multimodal machine learning under the supervision of <a href="https://hangzhaomit.github.io/">Hang Zhao</a> at <a href="http://group.iiis.tsinghua.edu.cn/~marslab/#/">MARS Lab</a>.</p>
 <h4 id="sports-analytics">Sports Analytics</h4>
-<p>In the past, I also did research in sports analytics. I spent my last undergraduate year working with <a href="https://sportssuper.github.io/ZSL/">Shaoliang Zhang</a> in deep learning methods for team sports analytics. The increasing amount of event and tracking data about team sports allows deep learning to be applied in this field. It is my belief that advanced deep learning methods will help improve team sports tactics in a way hard for human to discover.</p>
+<p>In the past, I also did research in sports analytics. I spent my last undergraduate year working with <a href="https://sportssuper.github.io/ZSL/">Shaoliang Zhang</a> in deep learning methods for team sports analytics. It is my belief that advanced deep learning methods will help improve team sports tactics in a way hard for human to discover.</p>
 <br/>
-<h2 id="center-education"><center> Education</h2>
+<h2 id="education"><center> Education</h2>
 <ul>
 <li>
 <p>2023 - present, Ph.D. in Computer Science, <strong>Brown University</strong>.</p>
@@ -497,18 +542,18 @@ $$</p>]]></description>
 </li>
 </ul>
 <br/>
-<h2 id="center-experience"><center> Experience</h2>
+<h2 id="experience"><center> Experience</h2>
 <ul>
-<li>05/2025 - 11/2025, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Steve Yuan</a>, <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>, and <a href="https://davidemodolo.wordpress.com/">Davide Modolo</a>.</li>
+<li>05/2025 - 11/2025, Applied Scientist Intern at Amazon AGI with <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&amp;hl=en">Jianbo Yuan</a>, <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>, and <a href="https://davidemodolo.wordpress.com/">Davide Modolo</a>.</li>
 </ul>
 <br/>
-<h2 id="center-award"><center> Award</h2>
+<h2 id="award"><center> Award</h2>
 <ul>
 <li>Gold Award (Rank 16) in the National Olympiad in Informatics (NOI) 2018</li>
 <li>Gold Award (Rank 4) in the Asia-Pacific Informatics Olympiad (APIO) 2018</li>
 </ul>
 <br/>
-<h2 id="center-service"><center> Service</h2>
+<h2 id="service"><center> Service</h2>
 <ul>
 <li>Conference Reviewer:
 <ul>

@@ -27,7 +27,7 @@
     
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Zitian Tang</copyright>
     
     
     
@@ -45,8 +45,8 @@
       
       
       
-      <description><![CDATA[<h2 id="center-mlfa"><center> MLFA</h2>
-<p>I am writing a Chinese column <a href="https://www.zhihu.com/column/c_1494725581471854592">Machine Learning in Football Analytics (MLFA)</a> at Zhihu. I notice that this area is much less popular in China than in the west and there is almost no Chinese materials introducing it. Therefore, I write the column to popularize this field, especially among people who are interested in football and machine learning. I wish this field will get more attention in China in the future.</p>
+      <description><![CDATA[<h2 id="mlfa"><center> MLFA</h2>
+<p>I wrote a column <a href="https://www.zhihu.com/column/c_1494725581471854592">Machine Learning in Football Analytics (MLFA)</a> in Chinese on Zhihu when I was an undergraduate. I noticed that this area was much less popular in China than in the west and there was almost no Chinese materials introducing it. Therefore, I wrote this column to popularize this field, especially among people who are interested in football and machine learning. I wish this field will get more attention in China in the future.</p>
 <div align=center>
     <img src="https://zitiantang.github.io/pictures/MLFA.PNG"/>
 </div>]]></description>
