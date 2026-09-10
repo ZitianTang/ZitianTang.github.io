@@ -421,7 +421,7 @@ $$</p>]]></description>
 	</div>
 	<div class="col-xs-12 col-md-9" style="text-align: left; vertical-align: middle;">
             <strong>Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals</strong><br>
-			<a href="https://cs.brown.edu/people/ngillman/" style="color:black">Nate Gillman</a>,
+			<a href="https://nategillman.com/" style="color:black">Nate Gillman</a>,
 			<a href="https://zyinghua.github.io/" style="color:black">Yinghua Zhou</a>,
 			<strong>Zitian Tang</strong>,
 			<a href="https://www.linkedin.com/in/evan-luo-48a755261/" style="color:black">Evan Luo</a>,
@@ -547,7 +547,7 @@ $$</p>]]></description>
       
       <description><![CDATA[<h2 id="research-interests"><center> Research Interests</h2>
 <h4 id="multimodal-machine-learning--robotic-planning">Multimodal Machine Learning &amp; Robotic Planning</h4>
-<p>I believe a necessary ability for machines to achieve human-level understanding about the world is to process various modalities simultaneously. Currently, I am a member at the PALM Lab directed by <a href="https://chensun.me/">Chen Sun</a>, working on vision-language models. Recently, I have been extending my interest toward applying vision-language models and video generation models to robotics. I believe that the broad world knowledge embedded in foundation models can serve as powerful priors, enabling robots to perform more complex and generalizable planning tasks.</p>
+<p>I believe a necessary skill for machines to achieve super-human capability is to understand and predict the world&rsquo;s dynamics through various modalities. Currently, I am a member at the PALM Lab directed by <a href="https://chensun.me/">Chen Sun</a>, working on vision-language models and video generation. I am also extending my interest to the applications of vision-language models and video generative models on robotic planning.</p>
 <p>Previously, I worked on multimodal machine learning under the supervision of <a href="https://hangzhaomit.github.io/">Hang Zhao</a> at <a href="http://group.iiis.tsinghua.edu.cn/~marslab/#/">MARS Lab</a>.</p>
 <h4 id="sports-analytics">Sports Analytics</h4>
 <p>In the past, I also did research in sports analytics. I spent my last undergraduate year working with <a href="https://sportssuper.github.io/ZSL/">Shaoliang Zhang</a> in deep learning methods for team sports analytics. It is my belief that advanced deep learning methods will help improve team sports tactics in a way hard for human to discover.</p>
@@ -582,7 +582,7 @@ $$</p>]]></description>
 <ul>
 <li>CVPR 2024, 2025</li>
 <li>ECCV 2024 (outstanding reviewer)</li>
-<li>NeurIPS 2024 (top reviewer), 2025</li>
+<li>NeurIPS 2024 (top reviewer), 2025, 2026</li>
 <li>ICML 2025</li>
 <li>ICCV 2025 (outstanding reviewer)</li>
 </ul>
